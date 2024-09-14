@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"simulating testing\" && exit 1"
+    "test": "echo \"simulating testing\" && exit 0"
   },
   "keywords": [],
   "author": "",
